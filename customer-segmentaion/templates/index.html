@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html >
+<!--From https://codepen.io/frytyler/pen/EGdtg-->
+<head>
+  <meta charset="UTF-8">
+  <title>Customer Segmentation With Machine Learning</title>
+  <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+  
+</head>
+
+<body>
+ <div class="login">
+	<h1>Customer Segmentation </h1>
+
+     <!-- Main Input For Receiving Query to our ML -->
+    <form action="{{ url_for('analyse')}}"method="post">
+    	<input type="text" id="customerid" name="CustomerId" placeholder="Analyse customer behavior by entering Customer Id" required="required" />
+        <button type="submit" class="btn btn-primary btn-block btn-large">Analyse</button>
+    </form>
+
+   <br>
+   <br>
+   {{ type_of_customer }}
+   <br>
+   <br>
+   {{ recommended_action }}
+
+ </div>
+
+
+</body>
+</html>
