@@ -1,0 +1,32 @@
+Name,Task Name,Start Date,End Date,Hrs Planned,Expected Output
+Pravitha,Tableau dashboard,03-04-2023,07-04-2023,10,
+,Exploring power apps and sample app creation,03-04-2023,07-04-2023,12,
+,working on User forms using Excel VBA,03-04-2023,07-04-2023,10,
+Ajith,Employee Status dashboard - Power APPs,03-Apr,04-Apr,16,To Create Employee Status Using Power APPS
+,Power BI Dashboard - Large datasets,05-Apr,06-Apr,10,To do Power BI dashboard with Performance Tunning and Optimization done with the data sets
+,Excel VBA & Macros,06-Apr,06-Apr,4,To Create some dashboards with the help of VBA and using some functions with that interaction
+,Mock Interview,03-Apr,06-Apr,4,To Prepare for Client interview and discuss about the questions related to data analyst
+Girija,"Circle, annulus Detection",03-04-2023,04-04-2023,8,Different Dimension of the components are measured
+,Rice Grains Count ,03-04-2023,06-04-2023,8,Count of the grains were taken
+,Norfair - Support,04-04-2023,06-04-2023,4,Count finalization
+,PPE,03-04-2023,06-04-2023,12,Demo will be ready
+Aravind. V,Finches - Development,03-04-2023,06-04-2023,16,
+,,,,,
+,TIFF - App Tool,03-04-2023,06-04-2023,8,Front end for TIFF
+,Weblink - API integration and Testing,04-04-2023,06-04-2023,6,Front end for Weblink
+,Auto assign - Support,03-04-2023,06-04-2023,2,Integration completion
+Chandrika.p,"KMeans clustering, Hierarchical Clustering, SVM Algorithm for clustering",03-04-2023,04-04-2023,16,Application
+,Time series & anomalies detection,05-04-2023,06-04-2023,16,Application
+Srikanth,user entry form using vba code,04-03-2023,04-03-2023,8,.creating user entry form application
+,entry form application,04-04-2023,04-04-2023,8,.creating user entry form application and assigning macos to buttons in worksheets
+,"login pages, useradmin and password",04-05-2023,04-05-2023,8,.creating login pages(admin and password)
+,interactive/dynamic dashboard,04-06-2023,04-06-2023,8,.creating interactive dashboards
+B.Sai Mounika,Autoassign - Excel Bulk upload Scripting,03-04-2023,05-04-2023,21,
+,Power App Data Source - Excel Tables,06-04-2023,6-4-023,8,
+Anil P,Auto Assign API Develokpment,03-04-2023,05-04-2023,8,
+,Bug fixes,04-04-2023,05-04-2023,8,
+,Autoassign front end intergation support,04-04-2023,06-04-2023,16,
+Devops,Creating Pipeline for Virtual Attendance System,03-04-2023,03-04-2023,8,Incomplete 
+,CI pipelines For Frontend and Backend Manually,03-04-2023,06-04-2023,16,Success CI pipelines
+,Creating Automation CI pipelines,04-04-2023,06-04-2023,5,In Process
+,CD Setup,05-04-2023,06-04-2023,3,Completed
